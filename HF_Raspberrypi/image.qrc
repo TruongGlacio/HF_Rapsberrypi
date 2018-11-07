@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sound_off.png</file>
+        <file>sound_on.png</file>
+    </qresource>
+</RCC>
